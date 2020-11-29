@@ -1,28 +1,26 @@
-# Template2D-Unity202015f1
+# 06home-NumberWizard-schiderf
 
 ### Project description: 
-Introduction/Project summary 
+the Numberwizard tries to guess an imagined number between 1 and 100
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+MacOS, Unity2020, VisualStudio Code
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 900x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+![](game.gif)
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Template for 2DUnity Project
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Schider Felix
+
