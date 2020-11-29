@@ -10,7 +10,7 @@ MacOS, Unity2020, VisualStudio Code
 WebGL 900x600
 
 ### Visuals: 
-![](game.gif)
+![](Game.gif)
 
 ### Third party material: 
 Template for 2DUnity Project
